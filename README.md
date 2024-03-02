@@ -1,4 +1,4 @@
-# Open Template NEXTJS - OpenNext
+# Open Template NEXTJS - OpenNextJs
 Open Template NEXTJS For Creating your New NextJS Project with db integration and auth, with Admin and User Seperate View
 
 # Request for PR
